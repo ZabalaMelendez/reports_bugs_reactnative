@@ -10,3 +10,5 @@ Check out here!
 ### VS CODE SCREENS
 ![Screen 1](https://github.com/ZabalaMelendez/reports_bugs_reactnative/blob/cb65132201251cbc648188c9651e217bdc23f3ff/vsscreen.PNG)
 ![Screen 2](https://github.com/ZabalaMelendez/reports_bugs_reactnative/blob/cb65132201251cbc648188c9651e217bdc23f3ff/vsscreen2.PNG)
+
+(https://github.com/ZabalaMelendez/reports_bugs_reactnative)
